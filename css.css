@@ -73,6 +73,10 @@ body{
 .header__nav-item {
     margin-right: 32px;
     position: relative;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15.23px;
+    letter-spacing: 1px;
 }
 .header__nav-item a:hover{
     color: #ff5100e5;
@@ -117,10 +121,6 @@ body{
     margin-top: 40px;
     margin-bottom: 24px;
     font-family: 'Roboto Condensed','Arial', sans-serif;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 48px;
-    letter-spacing: 0.5px;
     font-weight: 700;
     font-size: 40px;
     line-height: 48px;
@@ -198,6 +198,7 @@ body{
     font-weight: 700;
     font-size: 24px;
     line-height: 28.8px;
+    letter-spacing: 0.5px;
     margin-bottom: 12px;
 }
 .future_list_title:hover{
@@ -234,8 +235,9 @@ body{
 .sale_title {
     font-family: 'Roboto Condensed','Arial', sans-serif;
     font-weight: 700;
-    font-size: 24px;
-    line-height: 28.8px;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.5px;
     margin-bottom: 24px;
 }
 .sale_title:hover{
@@ -338,7 +340,8 @@ body{
 .footer__bottom-section-item a{
     text-decoration: none;
     color: #252420;
-    line-height: 18.25px;
+    line-height: 18.75px;
     font-weight: 400;
+    font-size: 16px;
 }
 
